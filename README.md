@@ -1,4 +1,4 @@
-# Machine-learning-models
+# Machine-learning-models, those I explored while learning
 
 This repository contains several machine learning algorithms implemented using Jupyter Notebooks. Each algorithm is implemented in a separate notebook file. The following is a list of the files in this repository:
 
