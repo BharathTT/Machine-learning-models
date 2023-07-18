@@ -16,7 +16,7 @@ This repository contains several machine learning algorithms implemented using J
 12. Weather prediction.ipynb: This notebook contains a machine learning model for weather prediction.
 13. Breast cancer.ipynb: This notebook focuses on the classification of breast cancer cases using machine learning algorithms.
 14. Handwritten digit recognition.ipynb: Another notebook for recognizing handwritten digits, using a different approach.
-15. KNN Mall customer.ipynb: This notebook implements the K-Nearest Neighbors algorithm for customer segmentation in a mall.
+15. KMeans Mall customer.ipynb: This notebook implements the K-Nearest Neighbors algorithm for customer segmentation in a mall.
 16. Prediction using TF.ipynb: This notebook demonstrates machine learning prediction using TensorFlow.
 17. spam email.ipynb: This notebook implements a spam email detection algorithm.
 18. Wine.ipynb: This notebook contains a machine learning model for classifying different types of wines.
