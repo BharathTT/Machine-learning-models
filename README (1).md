@@ -84,21 +84,22 @@ Before you can use this project, you need to set up and configure Apache Kafka a
      ```
 
 With these steps completed, your project is ready to work with Apache Kafka, CMAK (if needed), and the provided producer and dashboard components. Make sure all dependencies are correctly configured and running before launching the project components.
-# License:
 
-This project, in collaboration with Epsilon. As a partner in this project, Epsilon maintains a shared ownership interest. The terms and conditions of the license are subject to Epsilon's collaboration and approval.
-For any inquiries regarding ownership, licensing, or usage of this project, please contact Epsilon.
 
 # Authors & Contribution:
+Our Guides
+ - Dr. Anupama Kumar
+ - Epsilon Team 
 
- - Bharath GM : Lead
- - Pratheek T : Reasearch Team
- - Aradhya KC : Dashboard develpoer
- - Surya Prakash Reddy : Spark Processing
- - Aravinda Kumar : Sentiment Analysis
- - Mohammed Anas : Data Collection
- - Anupama : Supervisor
- - Epsilon Team : Tech Advisor
+Stack 1
+ - Pratheek T M
+ - Surya Prakash Reddy
+ - Aravinda Kumar
+   
+Stack 2
+ - Bharath GM
+ - Mohammed Anas
+ - Aradhya KC
 
 # Acknowledgments:
 
